@@ -1,0 +1,110 @@
+body {
+    background-image: linear-gradient(grey, lightgrey);
+    margin: 15px 25px 45px 25px;
+    letter-spacing: 3px;
+    font-family: "Mansalva", cursive;
+    font-size: 1.5rem;
+}
+h1 {
+    font-size: 1.8rem;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 1px 1px 1px aqua;
+}
+/* IMAGE 1: THE GENERIC FORMULA */
+#img1 {
+    width: 30%;
+    height: auto;
+    margin-right: 35%;
+    margin-left: 35%;
+    border: 2px aqua solid;
+    outline: 1px black solid;
+}
+/* IMAGES OF THREE RIGHT TRIANGLES */
+#img2 {
+    width: 65%;
+    height: auto;
+    margin-right: 17.5%;
+    margin-left: 17.5%;
+    border: 2px aqua solid;
+    outline: 1px black solid;
+}
+#img3 {
+    width: 60%;
+    height: auto;
+    margin-right: 20%;
+    margin-left: 20%;
+    border: 2px aqua solid;
+    outline: 1px black solid;
+}
+#img4 {
+    width: 62%;
+    height: auto;
+    margin-right: 19%;
+    margin-left: 19%;
+    border: 2px aqua solid;
+    outline: 1px black solid;
+}
+#img6 {
+    width: 20%;
+    height: auto;
+    margin-right: 70%;
+    margin-left: 10%;
+    border: 2px aqua solid;
+    outline: 1px black solid;
+}
+/* FIRST STUDENT EXAMPLE  */
+#img7 {
+    width: 20%;
+    height: auto;
+    margin-right: 70%;
+    margin-left: 10%;
+    border: 2px aqua solid;
+    outline: 1px black solid;
+}
+/* SECOND STUDENT EXAMPLE  */
+#img8 {
+    width: 20%;
+    height: auto;
+    margin-right: 70%;
+    margin-left: 10%;
+    border: 2px aqua solid;
+    outline: 1px black solid;
+}
+/* INPUT THE SIDE LENGTH */
+#myX {
+    font-size: 1.5rem;
+    text-align: center;
+    width: 10%;
+    height: 50px;
+    margin-left: 15%;
+    margin-right: 75%;
+    border: 1px black solid;
+    background-color: darkgrey;
+}
+/* BUTTON: SUBMIT BUTTON */
+#myButton {
+    font-size: 1rem;
+    color: aqua;
+    background-color: black;
+    width: 10%;
+    height: 50px;
+    margin-left: 15%;
+    margin-right: 75%;
+    margin-top: 15px;
+    border: 1px black solid;
+}
+#demo {
+    font-size: 1.3rem;
+    text-align: center;
+    padding: 5px;
+    width: 10%;
+    height: 50px;
+    margin-left: 15%;
+    margin-right: 75%;
+    margin-top: 15px;
+    border: 1px black solid;
+    outline: 1px aqua solid;
+    background-color: grey;
+}
+
