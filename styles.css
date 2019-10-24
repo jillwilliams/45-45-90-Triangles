@@ -107,4 +107,8 @@ h1 {
     outline: 1px aqua solid;
     background-color: grey;
 }
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
 
